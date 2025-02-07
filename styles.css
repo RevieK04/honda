@@ -1,6 +1,18 @@
+.fondo {
+    background-color: rgba(255, 255, 255, 0.37);
+}
+
 body {
-    background-image: url('https://wallpapercave.com/wp/wp2861688.jpg'); /* Ajusta la ruta según tu estructura de carpetas */
+    background-image: url('https://wallpapercave.com/wp/wp2861688.jpg');
+    /* Ajusta la ruta según tu estructura de carpetas */
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
+
+
+}
+
+.fondo {
+    background-color: rgba(255, 255, 255, 0.144);
+    margin: 10px;
 }
